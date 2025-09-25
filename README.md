@@ -1,4 +1,5 @@
-🍽️ Food Waste Prediction
+# **🍽️ Food Waste Prediction**
+
 
 
 
