@@ -93,7 +93,7 @@ Optimization: Gradient Descent
 Follow these steps to set up and run the project locally:
 
 ```bash
-1️⃣ **Clone the Repository**
+1️⃣ Clone the Repository
 git clone https://github.com/your-username/food-waste-prediction.git
 cd food-waste-prediction
 
