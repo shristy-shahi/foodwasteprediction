@@ -1,4 +1,6 @@
-🍽️ Food Waste Prediction
+#🍽️ Food Waste Prediction
+
+
 📌 Project Overview
 This project focuses on predicting food waste in retail stores using machine learning models. By analyzing past data, we aim to minimize waste and optimize inventory management. The project involves data preprocessing, exploratory data analysis (EDA), and machine learning model training to build an effective prediction system.
 
