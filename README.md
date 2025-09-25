@@ -88,21 +88,33 @@ Metrics: RMSE, R²
 
 Optimization: Gradient Descent
 
-##  ⚙️ How to Run the Project
+## ⚙️ How to Run the Project
 
 Follow these steps to set up and run the project locally:
 
-1️⃣ Clone the Repository
+1️⃣ **Clone the Repository**
+```bash
 git clone https://github.com/your-username/food-waste-prediction.git
 cd food-waste-prediction
-
 2️⃣ Create a Virtual Environment (Optional but Recommended)
+
+bash
+Copy code
+# Create virtual environment
 python -m venv venv
-source venv/bin/activate   # On Mac/Linux
-venv\Scripts\activate      # On Windows
 
+# Activate on Mac/Linux
+source venv/bin/activate
+
+# Activate on Windows
+venv\Scripts\activate
 3️⃣ Install Dependencies
-pip install -r requirements.txt
 
+bash
+Copy code
+pip install -r requirements.txt
 4️⃣ Run the Jupyter Notebook
+
+bash
+Copy code
 jupyter notebook untitled(3).ipynb
