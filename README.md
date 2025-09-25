@@ -92,12 +92,12 @@ Optimization: Gradient Descent
 
 Follow these steps to set up and run the project locally:
 
-1️⃣ **Clone the Repository**
 ```bash
+1️⃣ **Clone the Repository**
 git clone https://github.com/your-username/food-waste-prediction.git
 cd food-waste-prediction
-2️⃣ Create a Virtual Environment (Optional but Recommended)
 
+2️⃣ Create a Virtual Environment (Optional but Recommended)
 bash
 Copy code
 # Create virtual environment
@@ -108,13 +108,13 @@ source venv/bin/activate
 
 # Activate on Windows
 venv\Scripts\activate
-3️⃣ Install Dependencies
 
+3️⃣ Install Dependencies
 bash
 Copy code
 pip install -r requirements.txt
-4️⃣ Run the Jupyter Notebook
 
+4️⃣ Run the Jupyter Notebook
 bash
 Copy code
 jupyter notebook untitled(3).ipynb
