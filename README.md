@@ -14,13 +14,13 @@
 
 
 
-##📌 Project Overview
+##  📌 Project Overview
 
 This project focuses on predicting food waste in retail stores using machine learning models. By analyzing past data, the goal is to minimize waste and optimize inventory management.
 
 The workflow includes data preprocessing, exploratory data analysis (EDA), and machine learning model training to build an effective prediction system.
 
-##✨ Features
+##  ✨ Features
 
 Data Preprocessing & Cleaning 🛠️
 Cleans and prepares raw data for analysis.
@@ -40,7 +40,7 @@ Implements methods to prevent overfitting and fine-tune model performance.
 Cross-Validation & Performance Metrics 📉
 Evaluates models using RMSE, R², and confusion matrix.
 
-##📂 Dataset
+##  📂 Dataset
 
 The project utilizes retail store data:
 
