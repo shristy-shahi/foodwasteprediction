@@ -52,7 +52,7 @@ final_food_waste_data.csv → Processed & cleaned dataset
 
 untitled(3).ipynb → Main project notebook
 
-##🏗️ Tech Stack
+##  🏗️ Tech Stack
 
 Programming Language: Python 🐍
 
@@ -60,7 +60,7 @@ Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Tools: Jupyter Notebook, GitHub
 
-##🧩 Modeling Approach
+##  🧩 Modeling Approach
 
 Data Preprocessing
 
@@ -88,7 +88,7 @@ Metrics: RMSE, R²
 
 Optimization: Gradient Descent
 
-##⚙️ How to Run the Project
+##  ⚙️ How to Run the Project
 
 Follow these steps to set up and run the project locally:
 
